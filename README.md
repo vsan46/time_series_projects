@@ -18,7 +18,7 @@ I began this analysis by deconstructing time series into its most basic componen
 ### 2. Handling Non-Stationarity: ARIMA
 Real-world data is rarely stable; it trends upwards or fluctuates wildly.
 
-* **[ARIMA](./arima):** This section documents my work on making data "stationary." I walk through the process of differencing data—removing trends to stabilize the mean and variance—before applying AR and MA components. This is crucial for forecasting metrics like stock prices or economic indicators.
+* **[ARIMA](./ARIMA_Model):** This section documents my work on making data "stationary." I walk through the process of differencing data—removing trends to stabilize the mean and variance—before applying AR and MA components. This is crucial for forecasting metrics like stock prices or economic indicators.
 
 ### 3. Complexity and Cycles: SARIMA & SARIMAX
 The most advanced part of this repository deals with data that has repeating patterns (seasonality) and external influences.
