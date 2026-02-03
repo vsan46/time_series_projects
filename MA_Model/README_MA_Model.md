@@ -1,4 +1,4 @@
-\# \*\*Understanding the Moving Average (MA) Model\*\*
+# **Understanding the Moving Average (MA) Model**
 
 
 
@@ -6,7 +6,7 @@ In this project, I explored the Moving Average (MA) model, a fundamental compone
 
 
 
-\## What is an MA Model?
+## What is an MA Model?
 
 
 
