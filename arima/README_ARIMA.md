@@ -6,12 +6,6 @@ In this project, I explored Time Series Analysis by building an **ARIMA (AutoReg
 ## **What is an ARIMA Model?**
 
 
-<img width="3999" height="2728" alt="image" src="https://github.com/user-attachments/assets/173e519e-89d8-4a7e-bba7-3f4877bedd89" />
-
-
-
-
-
 I chose ARIMA because it is one of the most standard and effective statistical models for linear time series forecasting. It combines three distinct components to model data:
 
 
